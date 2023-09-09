@@ -1,0 +1,539 @@
+img{
+    max-width: 100%;
+}
+
+
+/* menu section */
+
+img.menuImage {
+    width: 100px;
+}
+.nav-link {
+    margin-left: 10px;
+}
+
+
+/* banner section */
+
+.bannerSection{
+    background-color: #f9f9ff;
+}
+.bannerleft h5{
+    margin-top: 170px;
+}
+.bannerleft h1{
+    font-weight: 400;
+    margin-top: 20px;
+}
+.bannerleft p{
+    margin: 30px 0;
+}
+.btn1{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 20px;
+    background-color: #8490ff;
+    font-weight: 600;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
+
+/* about section */
+
+.aboutSection{
+    padding: 50px 0;
+}
+
+.aboutSection .text {
+    margin-left: 47px;
+}
+.aboutSection .text h5{
+    margin-top: 100px;
+}
+.aboutSection .text h1{
+    font-weight: 400;
+    margin-top: 20px;
+}
+.aboutSection .text p{
+    margin: 30px 0;
+    font-size: 15px;
+}
+.aboutSection .text a{
+    font-weight: 400;
+}
+
+
+/* number section */
+
+.numberSection{
+    padding: 80px 0;
+    background-color: #8490ff;
+    color: #fff;
+}
+.numberSection h1{ 
+    font-size: 60px;
+}
+.numberSection p{
+    font-size: 20px;
+    color: #fff;
+}
+
+
+/* app section */
+
+.appSection{
+    padding: 50px 0;
+    background-color: #f9f9ff;
+}
+.appSection .item{
+    padding: 10px 10px 50px 0;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 4px 30px 0 rgba(98, 120, 223,.2);
+    box-sizing: border-box;
+}
+.appSection h1{
+    font-weight: 400;
+}
+.appSection .para{
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.appSection .header{
+    height: 120px;
+    width: 120px;
+    background: #f9f9ff;
+    margin: auto;
+    line-height: 120px;
+    font-size: 28px;
+    font-weight: 500;
+    border-radius: 50%;
+}
+.appSection h5{
+    margin-top: 10px;
+}
+.appSection .item .para2 {
+    color: #929292;
+    font-weight: 500;
+    font-size: 20px;
+}
+.appSection a{
+    text-decoration: none;
+    color: #8490ff;
+    border: 1px solid #8490ff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 18px;
+    display: inline-block;
+    box-shadow: 3px 4px 30px 0 rgba(98, 120, 223,.2);
+}
+
+
+/* team section */
+
+.teamSection{
+    background-color: #fff;
+}
+.teamSection .team {
+    background-color: #fff;
+    padding: 0px 30px 30px 30px;
+    margin: 150px 0 50px 0;
+    box-shadow: 5px 15px 22px 0 rgba(27, 30, 41, 0.26);
+}
+.team .info h5.heading{
+    font-weight: 500;
+    margin: 0;
+    font-size: 21px;
+}
+.team .info p{
+    margin: 0;
+    margin-bottom: 20px;
+    
+}
+
+.team .info a {
+    color: #465052;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.156);
+    display: inline-block;
+    transition: .5s;
+    text-decoration: none;
+}
+.team .info a:hover {
+   color: #fff;
+   background-color: #465052;
+  
+}
+.team .image img{
+    position: relative;
+    width: 40%;
+    top: -58px;
+    left: -35%;
+}
+
+/* form Section */
+
+.formSection{
+    background-color: #f9f9ff;
+}
+.formSection .form{
+    box-shadow: 3px 4px 30px 0 rgba(98, 120, 223,.2);
+}
+.formSection .form .button{
+    color: #fff;
+    background-color: #17a2b8;
+    padding: 8px 20px;
+    font-weight: 400;
+    border-radius: 5px;
+}
+  .formSection .headerText h1{
+    font-weight: 400;
+}
+  .formSection .headerText p{
+    font-size: 20px;
+}
+
+.formSection .text2{
+    text-align: left !important;
+    margin-top: 110px;
+    margin-left: 30px;
+}
+.formSection .text2 h3{
+    margin-bottom: 20px;
+}
+.formSection .text2 p{
+    font-weight: 500;
+    font-size: 17px;
+}
+
+
+/* footer section */
+
+.footersection{
+    padding: 40px;
+    background-color: #04091e;
+}
+.footersection p{
+    color: #fff;
+    margin: 0;
+}img{
+    max-width: 100%;
+}
+
+
+/* menu section */
+
+img.menuImage {
+    width: 100px;
+}
+.nav-link {
+    margin-left: 10px;
+}
+
+
+/* banner section */
+
+.bannerSection{
+    background-color: #f9f9ff;
+}
+.bannerleft h5{
+    margin-top: 170px;
+}
+.bannerleft h1{
+    font-weight: 400;
+    margin-top: 20px;
+}
+.bannerleft p{
+    margin: 30px 0;
+}
+.btn1{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 20px;
+    background-color: #8490ff;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+
+
+/* about section */
+
+.aboutSection{
+    padding: 50px 0;
+}
+
+.aboutSection .text {
+    margin-left: 47px;
+}
+.aboutSection .text h5{
+    margin-top: 100px;
+}
+.aboutSection .text h1{
+    font-weight: 400;
+    margin-top: 20px;
+}
+.aboutSection .text p{
+    margin: 30px 0;
+    font-size: 15px;
+}
+.aboutSection .text a{
+    font-weight: 400;
+}
+
+
+/* number section */
+
+.numberSection{
+    padding: 100px 0;
+    background-color: #8490ff;
+    color: #fff;
+}
+.numberSection h1{ 
+    font-size: 60px;
+}
+.numberSection p{
+    font-size: 20px;
+    color: #fff;
+}
+
+
+/* app section */
+
+.appSection{
+    padding: 50px 0;
+    background-color: #f9f9ff;
+}
+.appSection .item{
+    padding: 10px 10px 50px 0;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 4px 30px 0 rgba(98, 120, 223,.2);
+}
+.appSection h1{
+    font-weight: 400;
+}
+.appSection .para{
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.appSection .header{
+    height: 120px;
+    width: 120px;
+    background: #f9f9ff;
+    margin: auto;
+    line-height: 120px;
+    font-size: 28px;
+    font-weight: 500;
+    border-radius: 50%;
+}
+.appSection h5{
+    margin-top: 10px;
+}
+.appSection .item .para2{
+    color: #737373;
+    font-weight: 500;
+    font-size: 20px;
+}
+.appSection a{
+    text-decoration: none;
+    color: #8490ff;
+    border: 1px solid #8490ff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 18px;
+    display: inline-block;
+    box-shadow: 3px 4px 30px 0 rgba(98, 120, 223,.2);
+}
+
+
+/* team section */
+
+.teamSection{
+    background-color: #fff;
+}
+.teamSection .team {
+    background-color: #fff;
+    padding: 0px 30px 30px 30px;
+    margin: 150px 0 50px 0;
+    box-shadow: 5px 15px 22px 0 rgba(27, 30, 41, 0.26);
+}
+.team .info h5.heading{
+    font-weight: 500;
+    margin: 0;
+    font-size: 21px;
+}
+.team .info p{
+    margin: 0;
+    margin-bottom: 20px;
+    
+}
+
+.team .info a {
+    color: #465052;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.156);
+    display: inline-block;
+    transition: .5s;
+    text-decoration: none;
+}
+.team .info a:hover {
+   color: #fff;
+   background-color: #465052;
+  
+}
+.team .image img{
+    position: relative;
+    width: 40%;
+    top: -58px;
+    left: -35%;
+}
+
+/* form Section */
+
+.formSection{
+    background-color: #f9f9ff;
+}
+.formSection .form{
+    box-shadow: 3px 4px 30px 0 rgba(98, 120, 223,.2);
+}
+.formSection .form .button{
+    color: #fff;
+    background-color: #17a2b8;
+    padding: 8px 20px;
+    font-weight: 400;
+    border-radius: 5px;
+}
+  .formSection .headerText h1{
+    font-weight: 400;
+}
+  .formSection .headerText p{
+    font-size: 20px;
+}
+
+.formSection .text2{
+    text-align: left !important;
+    margin-top: 110px;
+    margin-left: 30px;
+}
+.formSection .text2 h3{
+    margin-bottom: 20px;
+}
+.formSection .text2 p{
+    font-weight: 500;
+    font-size: 17px;
+}
+
+
+/* footer section */
+
+.footersection{
+    padding: 30px;
+    background-color: #04091e;
+}
+.footersection p{
+    color: #fff;
+    margin: 0;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+/* responsive css file */
+
+
+@media(max-width:1200px){
+    .aboutSection .text {
+        margin-top: -80px;
+    }
+}
+@media(max-width:992px) {
+    .bannerleft {
+        margin-top: -100px;
+    }
+    .aboutSection .text h1 {
+        margin-top: 0;
+    }
+    .aboutSection .text p {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .aboutSection .text h5 {
+        margin-top: 60px;
+    }
+    .numberSection {
+        padding: 30px 0;
+    }
+    .numberSection p {
+        padding-bottom: 20px;
+    }
+    .appSection .item {
+        padding: 10px 0px 20px 0;
+    }
+    .appSection .item .para2 {
+        font-size: 16px;
+    }
+    .item p{
+        margin: 0;
+    }
+}
+@media(max-width:768px) {
+    .bannerleft {
+        margin-top: -140px;
+    }
+    .bannerleft h1 {
+        margin-top: 0px;
+    }
+    .bannerleft p {
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .aboutSection .text {
+        margin-left: 0;
+    }
+    .appSection .item {
+        margin-bottom: 30px;
+    }
+    .formSection .text2 {
+        margin-top: 55px;
+    }
+}
+@media(max-width:576px) {
+    .aboutSection .text {
+        margin-top: 0px;
+    }
+    .aboutSection {
+        padding: 100px 0;
+    }
+    .numberSection p {
+        padding-bottom: 30px;
+    }
+    .phone-input{
+        margin-bottom: 20px;
+    }
+    .teamSection .team {
+        margin: 150px 0 0px 0;
+    }
+    .formSection {
+        margin-top: 50px;
+    }
+}
